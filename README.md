@@ -55,7 +55,7 @@ There are 3 variables currently set up for the icon: font-size, color, and margi
 ```
 .mydiv { @include icon($apple, $c:$purple); }
 ```
-#### Removeing defaults
+#### Removing defaults
 
 ```
 .mydiv { @include icon($apple, null, null, $blue)
