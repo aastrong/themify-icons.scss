@@ -1,4 +1,4 @@
-themify-icons-scss
+Themify Icons SCSS
 ==================
 
 This is a SCSS version of the Themify Icons which includes mixins to create themify icons on the fly. I am basing the SCSS off of the SCSS verion of font-awesome. You can find themify icons here: [http://themify.me/themify-icons](http://themify.me/themify-icons)
