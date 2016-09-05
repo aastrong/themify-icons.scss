@@ -4,7 +4,7 @@
   "description": "Fonts for Themify Icons",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbashy/themify-icons.scss.git"
+    "url": "git+https://github.com/bbashy/themify-icons-sass.git"
   },
   "license": "MIT",
   "homepage": "https://themify.me/themify-icons"
